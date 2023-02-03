@@ -1,3 +1,3 @@
-4x4 Hanoi Kuleleri oyunundaki bütün muhtemel adımları csv dosyasına aktaran bir cpp programıdır.
+It is a cpp program that exports all possible steps in the 4x4 Towers of Hanoi game to a csv file.
 
-Programın çıktısı ise bir veri görselleştirme aracı ile desteklenerek html sayfasına gömülmüştür.
+The output of the program is embedded in an html page supported by a data visualisation tool.
